@@ -10,7 +10,7 @@ body {
     align-items: center;
 	height: 100vh;
     background-color: #3d3c38;
-	color: white;
+	color: #f2ab11;
 }
 
 .box {
@@ -37,5 +37,5 @@ button {
 #countdown {
     margin-top: 20px;
     font-size: 32px;
-    color: white;
+    color: #f2ab11;
 }
