@@ -1,0 +1,41 @@
+/*
+Scott Sandilands 
+CITP-4316
+Programming Project 2
+*/
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	height: 100vh;
+    background-color: #3d3c38;
+	color: white;
+}
+
+.box {
+    text-align: center;
+    background-color: #242322;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 80px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#countdown {
+    margin-top: 20px;
+    font-size: 32px;
+    color: white;
+}
