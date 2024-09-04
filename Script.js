@@ -19,7 +19,7 @@ document.getElementById("startButton").addEventListener("click", function() {
 
         if (time <= 0) {
             clearInterval(timer);
-            countdownElement.textContent = "Time's up";
+            countdownElement.textContent = "Timer has ended";
         }
     }, 1000);
 });
